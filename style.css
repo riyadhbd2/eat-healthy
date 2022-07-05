@@ -9,6 +9,7 @@ body{
 }
 .male-section{
     display: flex;
+    margin: 5%;
 
 }
 .part{
@@ -21,4 +22,13 @@ body{
     background-image: linear-gradient(orange, tomato);
     padding: 10px;
     border-radius: 10px;
+}
+.female-section{
+    display: flex;
+    background-image: url(images/7.png);
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.part img{
+    width: 50%;
 }
