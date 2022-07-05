@@ -60,3 +60,14 @@ body{
     margin: 5%;
     padding: 5%;
 }
+.last{
+    text-align: center;
+    background-color: black;
+    padding: 20px;
+}
+.last p{
+    color: white;
+}
+.last h1{
+    color: gray;
+}
